@@ -1,5 +1,5 @@
 """
-WAP in C to calculate addition, subtraction, multiplication of two integers
+WAP to calculate addition, subtraction, multiplication of two integers
 switch case taking option from the user.
 If the user gives 1, addition will be performed.
 If the user gives 2, subtraction will be performed.

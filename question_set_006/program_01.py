@@ -1,5 +1,5 @@
 """
-WAP in C to calculate the sum of first n positive integers
+WAP to calculate the sum of first n positive integers
 using for loop. Take the value of n as input from the user.    
 """
 
