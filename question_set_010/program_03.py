@@ -1,5 +1,5 @@
 """
-WAP in C to take two integers as input from the user and
+WAP to take two integers as input from the user and
 compute the LCM (lowest common multiple) of the two integers.
 Use FOR loop.
 """
