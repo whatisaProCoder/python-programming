@@ -1,5 +1,5 @@
 """
-WAP in C to define and call a function that takes two positive integers
+WAP to define and call a function that takes two positive integers
 N and R as input and returns the value of P(N,R), where P(N,R) is the
 number of permutations of N objects taken R at a time.
 """
