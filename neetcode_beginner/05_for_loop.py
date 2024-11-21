@@ -13,4 +13,19 @@ def three():
         print(i)
 
 
-three()
+def four():
+    for i in range(10, 0, -1):
+        print(f"{i} ", end="")
+
+
+def five():
+    for i in reversed(range(10)):
+        print(f"{i} ", end="")
+
+
+def six():
+    for i in reversed(range(10, 20+1)):
+        print(f"{i} ", end="")
+
+
+six()
